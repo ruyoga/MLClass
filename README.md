@@ -30,10 +30,11 @@ This problem is a classic panel problem (many companies and many years).
 │   ├── 04.ols-model.ipynb
 │   ├── 05.arma-model.ipynb
 │   ├── 06.ardl-model.ipynb
-│   ├── 07.knn-model.ipynb
-│   ├── 08.svr-model.ipynb
-│   ├── 09.final-comparison-and-summary.ipynb
-│   └── 10.homework-random-forest-model.ipynb
+│   ├── 07.knn-model.ipynb
+│   ├── 08.svr-model.ipynb
+│   ├── 09.final-comparison-and-summary.ipynb
+│   ├── 10.homework-random-forest-model.ipynb
+│   └── 11.classification-task.ipynb
 ```
 
 -------------
@@ -178,6 +179,26 @@ This guide will walk you through setting up your environment and running the “
 
 > Good luck and happy learning! 🚀
 > If you run into any issues, please open an Issue on the repository or ask your instructor.
+-------------
+
+## ML2 Course - Classification Task (Extra Points)
+
+For **ML2 students**, a new assignment is available in `notebooks/11.classification-task.ipynb`.
+
+**Task Overview:**
+- Convert the regression problem into a **classification task**
+- Predict tax avoidance risk levels: Low / Medium / High
+- Train 3 classification models: Logistic Regression, KNN Classifier, SVC
+- Worth **5 extra points** for completion
+
+**Instructions:**
+1. Open `notebooks/11.classification-task.ipynb`
+2. Follow the step-by-step instructions
+3. Complete all three parts (Data Preparation, Model Training, Evaluation)
+4. Submit via GitHub repository link to: mj.wozniak9@uw.edu.pl
+
+This task serves as a **revision exercise** covering key ML2 concepts using familiar data and models.
+
 -------------
 
 **Attention! This project is for demonstration purposes, i.e. we omit many practices of writing good code and project structuring due to its demonstrative character. It has rather experimental form!!!**
